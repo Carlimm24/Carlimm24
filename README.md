@@ -65,5 +65,8 @@ Me chamo Carlos Alberto, tenho 34 anos e sou natural de Minas Gerais.
 <br/>
 
 ### 📊 Estatísticas
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+
+
 
 
